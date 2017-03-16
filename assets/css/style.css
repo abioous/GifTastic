@@ -1,18 +1,24 @@
 
-
-
-#images {
-	background-color: orange;	
-}
-
-#form {
-	background-color: blue;	
-}
-.flex-horizontal{
+.d-flex {
 	display:flex;
+}
 
+.flex-wrap {
+	flex-wrap:wrap;
+}
+
+.flex-space-around {
+	justify-content:space-around;
 }
 
 .flex-1 {
 	flex:1 0;
+}
+
+.flex-2 {
+	flex:2 0;
+}
+
+.flex-33 {
+	flex 32% 0;
 }
