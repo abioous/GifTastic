@@ -1,0 +1,18 @@
+
+
+
+#images {
+	background-color: orange;	
+}
+
+#form {
+	background-color: blue;	
+}
+.flex-horizontal{
+	display:flex;
+
+}
+
+.flex-1 {
+	flex:1 0;
+}
